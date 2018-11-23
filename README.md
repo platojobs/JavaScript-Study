@@ -1,6 +1,24 @@
 # JavaScript-Study
 JavaScript-Study
 
+## 目录
+#### 1.[JavaScript的Map后Set](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript的Map后Set.md)
+#### 2.[JavaScript 语句、数据类型、对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript%20语句、数据类型、对象.md)
+#### 3.[JavaScript函数、作用域、解构赋值](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript函数、作用域、解构赋值.md)
+#### 4.[JavaScript方法](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript方法.md)
+#### 5.[JavaScript高阶函数](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript-Higher-order%20function.md)
+
+
+
+
+
+
+
+
+
+
+
+
 #### JavaScript 简介
  JavaScript 是世界上最流行的编程语言。
 这门语言可用于 HTML 和 web，更可广泛用于服务器、PC、笔记本电脑、平板电脑和智能手机等设备。
@@ -97,8 +115,3 @@ document.getElementById("demo").innerHTML="我是刘德华，拍过《神雕侠�
 ```
 ---------------
 
-## 目录
-#### 1.[JavaScript的Map后Set](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript的Map后Set.md)
-#### 2.[JavaScript 语句、数据类型、对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript%20语句、数据类型、对象.md)
-#### 3.[JavaScript函数、作用域、解构赋值](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript函数、作用域、解构赋值.md)
-#### 4.[JavaScript方法](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript方法.md)
