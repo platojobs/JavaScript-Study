@@ -17,3 +17,19 @@ f(x) + f(y) ==> Math.abs(-5) + Math.abs(6) ==> 11;
 return 11;
 
 ```
+代码验证下：
+```javascript
+var x = add(-5, 6, Math.abs); // 11
+console.log(x);
+/*
+11
+*/
+```
+> **编写高阶函数，就是让函数的参数能够接收别的函数。
+
+-----
+
+#### map
+
+举例说明，比如我们有一个函数`f(x)=x2`，要把这个函数作用在一个数组`[1, 2, 3, 4, 5, 6, 7, 8, 9]`上，就可以用`map`实现如下:
+![tupian](https://cdn.liaoxuefeng.com/cdn/files/attachments/0013879622109990efbf9d781704b02994ba96765595f56000/0)
