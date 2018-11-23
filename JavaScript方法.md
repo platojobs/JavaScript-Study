@@ -1,0 +1,1 @@
+####JavaScript方法
