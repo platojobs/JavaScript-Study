@@ -1,4 +1,5 @@
 #### JavaScript 语句
+[学习贵在坚持](https://github.com/cuishengxi)
 JavaScript 语句向浏览器发出的命令。语句的作用是告诉浏览器该做什么。
 下面的 JavaScript 语句向 `id="demo"` 的 HTML 元素输出文本 `"Hello World"`：
 
@@ -39,7 +40,7 @@ JavaScript `对大小写是敏感的`。
 
 ##### 空格
 ***注：JavaScript 会忽略多余的空格。您可以向脚本添加空格，来提高其可读性。*** 下面的两行代码是等效的：
-
+[学习贵在坚持](https://github.com/cuishengxi)
 ```javascript
 var name="Hello";
 var name = "Hello";
@@ -142,7 +143,7 @@ var s = 'hello, world'
 s.substring(0, 5); // 从索引0开始到5（不包括5），返回'hello'
 s.substring(7); // 从索引7开始到结束，返回'world'
 ```
-
+[学习贵在坚持](https://github.com/cuishengxi)
 #### 2.数字  
 数字可以带小数点，也可以不带；极大或极小的数字可以通过科学（指数）计数法来书写：`var z=123e-5`;     
 
@@ -265,7 +266,7 @@ tongxie['middle-school']; // 'No.11 Middle School'
 tongxie['name']; // '周杰伦'
 tongxie.name; // '周杰伦'
 ```
-
+[学习贵在坚持](https://github.com/cuishengxi)
 也可以用tongxie['name']来访问xiaohong的name属性，不过tongxie.name的写法更简洁。我们在编写JavaScript代码的时候，属性名尽量使用标准的变量名，这样就可以直接通过object.prop的形式访问一个属性了。
 实际上JavaScript对象的所有属性都是字符串，不过属性对应的值可以是任意数据类型。
 如果访问一个不存在的属性会返回什么呢？JavaScript规定，`访问不存在的属性不报错，而是返回undefined`：
