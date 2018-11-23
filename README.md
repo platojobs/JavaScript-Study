@@ -27,7 +27,7 @@ JavaScript 是脚本语言
 JavaScript 是一种轻量级的编程语言。
 JavaScript 是可插入 HTML 页面的编程代码。
 JavaScript 插入 HTML 页面后，可由所有的现代浏览器执行。
-
+[学习贵在坚持](https://github.com/cuishengxi)
 HTML 中的脚本必须位于 `<script>` 与 `</script> `标签之间。
 脚本可被放置在 HTML 页面的 <body> 和 <head> 部分中。
 ```JavaScript
@@ -93,6 +93,7 @@ document.getElementById("demo").innerHTML="My First JavaScript Function";
 > <u>提示：外部脚本不能包含`<script>`标签</u>
 &copy;:崔盛希
 
+>[学习贵在坚持](https://github.com/cuishengxi)
 
 + - [X] 操作 HTML 元素
 + - [X] 如需从 JavaScript 访问某个 HTML 元素，您可以使用 `document.getElementById(id)` 方法。请使用 `"id"` 属性来标识 HTML 元素
@@ -114,4 +115,4 @@ document.getElementById("demo").innerHTML="我是刘德华，拍过《神雕侠�
 </html>
 ```
 ---------------
-
+[学习贵在坚持](https://github.com/cuishengxi)
