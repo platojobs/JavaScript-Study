@@ -1,4 +1,4 @@
-[TOC]
+[学习贵在坚持](https://github.com/cuishengxi)
 #### 函数
 ##### 函数的定义与调用
 由于JavaScript的函数也是一个对象，下述定义的abs()函数实际上是一个函数对象，而函数名abs可以视为指向该函数的变量。
@@ -23,7 +23,7 @@ var abs = function (x) {
     }
 };
 ```
-
+[学习贵在坚持](https://github.com/cuishengxi)
 >在这种方式下，`function (x) { ... }`是一个匿名函数，它没有函数名。但是，这个匿名函数赋值给了变量`abs`，所以，通过变量`abs`就可以调用该函数。
 上述两种定义完全等价，注意第二种方式按照完整语法需要在函数体末尾加一个`;`，表示赋值语句结束。
 ```javascript
@@ -53,7 +53,7 @@ function abs(x) {
     }
 }
 ```
-
+[学习贵在坚持](https://github.com/cuishengxi)
 ##### arguments
 
 JavaScript还有一个免费赠送的关键字`arguments`
@@ -181,6 +181,7 @@ b = undefined
 ```
 >由于JavaScript引擎在行末自动添加分号的机制.小心return语句；
 
+[学习贵在坚持](https://github.com/cuishengxi)
 
 #### 变量
 
@@ -241,7 +242,7 @@ function foo() {
     }
 }
 ```
-
+[学习贵在坚持](https://github.com/cuishengxi)
 #### 全局作用域
 不在任何函数内定义的变量就具有全局作用域。实际上，JavaScript默认有一个全局对象window，全局作用域的变量实际上被绑定到window的一个属性;
 ```javascript
@@ -431,6 +432,8 @@ var x, y;
 var x=1, y=2;
 [x, y] = [y, x]
 ```
+[学习贵在坚持](https://github.com/cuishengxi)
+
 快速获取当前页面的域名和路径：
 ```javascript
 var {hostname:domain, pathname:path} = location;
@@ -451,3 +454,4 @@ buildDate({ year: 2017, month: 1, day: 1, hour: 20, minute: 15 });
 ```
 >使用解构赋值可以减少代码量，但是，需要在支持ES6解构赋值特性的现代浏览器中才能正常运行。目前支持解构赋值的浏览器包括`Chrome`，`Firefox`，`Edge`等.
 
+[学习贵在坚持](https://github.com/cuishengxi)
