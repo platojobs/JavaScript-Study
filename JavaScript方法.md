@@ -74,7 +74,7 @@ var fn = xiaoming.age;
 fn(); // Uncaught TypeError: Cannot read property 'birth' of undefined
 ```
 
->这个决定只是让错误及时暴露出来，并没有解决this应该指向的正确位置。
+>这个决定只是让错误及时暴露出来，并没有解决`this`应该指向的正确位置。
  有些时候，喜欢重构的你把方法重构了一下：
  ```javascript
  'use strict';
