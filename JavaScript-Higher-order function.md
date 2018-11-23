@@ -1,6 +1,6 @@
 
 ### Higher-order function
-[如果不想虚度一生，那就要学习一辈子。]()
+~~如果不想虚度一生，那就要学习一辈子~~
 > JavaScript的函数其实都指向某个变量。既然变量可以指向函数，函数的参数能接收变量，那么一个函数就可以接收另一个函数作为参数，这种函数就称之为(Higher-order function)高阶函数.
 ```javascript
 function add(x, y, f) {
