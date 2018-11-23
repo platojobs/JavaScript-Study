@@ -101,4 +101,4 @@ document.getElementById("demo").innerHTML="我是刘德华，拍过《神雕侠�
 #### 1.[JavaScript的Map后Set](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript的Map后Set.md)
 #### 2.[JavaScript 语句、数据类型、对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript%20语句、数据类型、对象.md)
 #### 3.[JavaScript函数、作用域、解构赋值](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript函数、作用域、解构赋值.md)
-#### 4.[JavaScript方法]()
+#### 4.[JavaScript方法](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript方法.md)
