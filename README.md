@@ -1,6 +1,7 @@
 # JavaScript-Study
 JavaScript-Study
-
+## 【如果不想虚度一生，那就要学习一辈子。】
+------
 ## 目录
 #### 1.[JavaScript的Map后Set](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript的Map后Set.md)
 #### 2.[JavaScript 语句、数据类型、对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript%20语句、数据类型、对象.md)
