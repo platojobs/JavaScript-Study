@@ -3,6 +3,7 @@
 为了解决这个问题，最新的ES6规范引入了新的数据类型Map。要测试你的浏览器是否支持ES6规范，请执行以下代码，如果浏览器报ReferenceError错误，那么你需要换一个支持ES6的浏览器.
 
 #### Map
+[学习贵在坚持](https://github.com/cuishengxi)
 是一组键值对的结构，具有极快的查找速度。
 ```javascript
 var m = new Map([['Michael', 95], ['Bob', 75], ['Tracy', 85]]);
@@ -140,6 +141,7 @@ m.forEach(function (value, key, map) {
     */
 });
 ```
+[学习贵在坚持](https://github.com/cuishengxi)
 如果对某些参数不感兴趣，由于JavaScript的函数调用不要求参数必须一致，因此可以忽略它们。例如，只需要获得Array的element
 ```javascript
 var a = ['A', 'B', 'C'];
