@@ -1,6 +1,6 @@
 # JavaScript-Study
 JavaScript-Study
-## 【如果不想虚度一生，那就要学习一辈子。】
+## [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi.)
 ------
 ## 目录
 #### 1.[JavaScript的Map后Set](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript的Map后Set.md)
@@ -117,3 +117,4 @@ document.getElementById("demo").innerHTML="我是刘德华，拍过《神雕侠�
 ```
 ---------------
 [学习贵在坚持](https://github.com/cuishengxi)
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi.)
