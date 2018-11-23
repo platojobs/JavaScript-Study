@@ -8,6 +8,7 @@ var xiaoming = {
     birth: 1990
 };
 ```
+[学习贵在坚持](https://github.com/cuishengxi)；
 
 ##### this&&that
 
@@ -73,7 +74,7 @@ var xiaoming = {
 var fn = xiaoming.age;
 fn(); // Uncaught TypeError: Cannot read property 'birth' of undefined
 ```
-
+[学习贵在坚持](https://github.com/cuishengxi)
 >这个决定只是让错误及时暴露出来，并没有解决`this`应该指向的正确位置。
  有些时候，喜欢重构的你把方法重构了一下：
  ```javascript
@@ -150,6 +151,7 @@ Math.max.call(null, 3, 5, 4); // 5
 ```
 > 对普通函数调用，我们通常把this绑定为null。
 
+[学习贵在坚持](https://github.com/cuishengxi)
 ------------
 ##### 装饰器
 
