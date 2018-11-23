@@ -48,7 +48,7 @@ console.log(results);
 ```
 > ***注意：map()传入的参数是pow，即函数对象本身。
 
-[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi.)
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 你可能会想，不需要map()，写一个循环，也可以计算出结果:
 
 ```javascript
@@ -93,7 +93,7 @@ arr.reduce(function (x, y) {
 }); // 13579
 ```
 如果我们继续改进这个例子，想办法把一个字符串13579先变成Array——`[1, 3, 5, 7, 9]`，再利用`reduce()`就可以写出一个把字符串转换为`Number`的函数。
-[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi.)
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 ------
 #### filter
 >它用于把Array的某些元素过滤掉，然后返回剩下的元素
@@ -216,5 +216,5 @@ a1; // ['A', 'B', 'C']
 a2; // ['A', 'B', 'C']
 a1 === a2; // true, a1和a2是同一对象
 ```
-[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi.)
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 
