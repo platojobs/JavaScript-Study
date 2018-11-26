@@ -1,6 +1,6 @@
->JavaScript的默认对象表示方式{}可以视为其他语言中的Map或Dictionary的数据结构，即一组键值对。
->但是JavaScript的对象有个小问题，就是键必须是字符串。但实际上Number或者其他数据类型作为键也是非常合理的。
-为了解决这个问题，最新的ES6规范引入了新的数据类型Map。要测试你的浏览器是否支持ES6规范，请执行以下代码，如果浏览器报ReferenceError错误，那么你需要换一个支持ES6的浏览器.
+>JavaScript的默认对象表示方式`{}`可以视为其他语言中的`Map`或`Dictionary`的数据结构，即一组键值对。
+>但是JavaScript的对象有个小问题，就是键必须是字符串。但实际上`Number`或者其他数据类型作为键也是非常合理的。
+为了解决这个问题，最新的`ES6`规范引入了新的数据类型Map。要测试你的浏览器是否支持`ES6`规范，请执行以下代码，如果浏览器报`ReferenceError`错误，那么你需要换一个支持`ES6`的浏览器.
 
 #### Map
 [学习贵在坚持](https://github.com/cuishengxi)
@@ -154,3 +154,10 @@ a.forEach(function (element) {
     */
 });
 ```
+Persistence is the key to learning.
+
+[学习贵在坚持](https://github.com/cuishengxi)
+
+If you don't want to waste your life, you should spend it learning.
+
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
