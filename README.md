@@ -1,8 +1,19 @@
 # JavaScript-Study
 JavaScript-Study
+### If you don't want to waste your life, you should spend it learning.
 ## [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
+**Recently, I am quite confused. I have been learning while doing the project, but I have no choice. In order not to be eliminated, I have to study hard and broaden my field.
+Idle is idle. Get busy and do something.**
+>最近比较迷茫，项目一边做，一边学习了，也是没办法，为了不被淘汰，那只有努力学习，拓宽自己的领域，在干好本职工作的同时，拓宽自己的领域。
+闲着也是闲着，忙起来做点事情吧。
+### Reference resources
+[参考作者](https://github.com/ecomfe)
+###[JavaScript编码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)
+###[JavaScript编码规范-补充草案](https://github.com/ecomfe/spec/blob/master/es-next-style-guide.md)
+
 ------
 ## 目录
+
 #### 1.[JavaScript的Map后Set](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript的Map后Set.md)
 #### 2.[JavaScript 语句、数据类型、对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript%20语句、数据类型、对象.md)
 #### 3.[JavaScript函数、作用域、解构赋值](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript函数、作用域、解构赋值.md)
@@ -12,17 +23,8 @@ JavaScript-Study
 #### 7.[JavaScript标准对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript标准对象.md)
 
 
-
-
-
-
-
-
-
-
-
-
-#### JavaScript 简介
+## Preface
+### JavaScript introduction
  JavaScript 是世界上最流行的编程语言。
 这门语言可用于 HTML 和 web，更可广泛用于服务器、PC、笔记本电脑、平板电脑和智能手机等设备。
 
@@ -118,6 +120,7 @@ document.getElementById("demo").innerHTML="我是刘德华，拍过《神雕侠�
 </html>
 ```
 ---------------
+Persistence is the key to learning.
 [学习贵在坚持](https://github.com/cuishengxi)
-
+If you don't want to waste your life, you should spend it learning.
 [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
