@@ -1,5 +1,11 @@
 #### JavaScript方法
+Persistence is the key to learning.
 
+[学习贵在坚持](https://github.com/cuishengxi)
+
+If you don't want to waste your life, you should spend it learning.
+
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 >在一个对象中绑定函数，称为这个对象的方法。
 在JavaScript中，对象的定义是这样的:
 ```javascript
@@ -178,4 +184,10 @@ console.log('count = ' + count); // 3
 
 
 
+Persistence is the key to learning.
 
+[学习贵在坚持](https://github.com/cuishengxi)
+
+If you don't want to waste your life, you should spend it learning.
+
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
