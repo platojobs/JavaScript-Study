@@ -66,23 +66,23 @@ typeof s; // 'string'
 ##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 #### 总结一下，有这么几条规则需要遵守：
 
-1.不要使用new Number()、new Boolean()、new String()创建包装对象；
+1.不要使用`new Number()`、`new Boolean()`、`new String()`创建包装对象；
 
-2.用parseInt()或parseFloat()来转换任意类型到number；
+2.用`parseInt()`或`parseFloat()`来转换任意类型到`number`；
 
-3.用String()来转换任意类型到string，或者直接调用某个对象的toString()方法；
+3.用`String()`来转换任意类型到`string`，或者直接调用某个对象的`toString()`方法；
 
-4.通常不必把任意类型转换为boolean再判断，因为可以直接写if (myVar) {...}；
+4.通常不必把任意类型转换为`boolean`再判断，因为可以直接写`if (myVar) {...}`；
 
-5.typeof操作符可以判断出number、boolean、string、function和undefined；
+5.`typeof`操作符可以判断出`number`、`boolean`、`string`、`function`和`undefined`；
 
-6.判断Array要使用Array.isArray(arr)；
+6.判断`Array`要使用`Array.isArray(arr)`；
 
-7.判断null请使用myVar === null；
+7.判断`null`请使用`myVar === null`；
 
-8.判断某个全局变量是否存在用typeof window.myVar === 'undefined'；
+8.判断某个全局变量是否存在用`typeof window.myVar === 'undefined'`；
 
-9.函数内部判断某个变量是否存在用typeof myVar === 'undefined'。
+9.函数内部判断某个变量是否存在用`typeof myVar === 'undefined'`。
 
 > 最后有细心的同学指出，任何对象都有`toString()`方法吗？`null`和`undefined`就没有！确实如此，这两个特殊值要除外，虽然`null`还伪装成了`object`类型。更细心的[码农](https://baike.baidu.com/item/码农/10262742)指出，`number`对象调用`toString()`报`SyntaxError`;
 ```javascript
