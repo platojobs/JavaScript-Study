@@ -3,13 +3,13 @@ JavaScript-Study
 ## [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 ------
 ## 目录
-### 1.[JavaScript的Map后Set](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript的Map后Set.md)
-### 2.[JavaScript 语句、数据类型、对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript%20语句、数据类型、对象.md)
-### 3.[JavaScript函数、作用域、解构赋值](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript函数、作用域、解构赋值.md)
-### 4.[JavaScript方法](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript方法.md)
-### 5.[JavaScript高阶函数](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript-Higher-order%20function.md)
-### 6.[JavaScript的闭包、箭头函数、generator](https://github.com/cuishengxi/JavaScript-Study/blob/master/闭包、箭头函数、generator.md)
-### 7.[JavaScript标准对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript标准对象.md)
+#### 1.[JavaScript的Map后Set](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript的Map后Set.md)
+#### 2.[JavaScript 语句、数据类型、对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript%20语句、数据类型、对象.md)
+#### 3.[JavaScript函数、作用域、解构赋值](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript函数、作用域、解构赋值.md)
+#### 4.[JavaScript方法](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript方法.md)
+#### 5.[JavaScript高阶函数](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript-Higher-order%20function.md)
+#### 6.[JavaScript的闭包、箭头函数、generator](https://github.com/cuishengxi/JavaScript-Study/blob/master/闭包、箭头函数、generator.md)
+#### 7.[JavaScript标准对象](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript标准对象.md)
 
 
 
