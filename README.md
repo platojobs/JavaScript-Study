@@ -8,7 +8,7 @@ JavaScript-Study
 #### 3.[JavaScript函数、作用域、解构赋值](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript函数、作用域、解构赋值.md)
 #### 4.[JavaScript方法](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript方法.md)
 #### 5.[JavaScript高阶函数](https://github.com/cuishengxi/JavaScript-Study/blob/master/JavaScript-Higher-order%20function.md)
-#### 6.[闭包、箭头函数、generator（生成器）](https://github.com/cuishengxi/JavaScript-Study/blob/master/闭包、箭头函数、generator（生成器).md)
+#### 6.[闭包、箭头函数、generator（生成器）](https://github.com/cuishengxi/JavaScript-Study/blob/master/闭包、箭头函数、generator\（生成器\).md)
 
 
 
