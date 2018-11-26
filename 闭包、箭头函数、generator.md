@@ -1,6 +1,7 @@
 
 #### 函数作为返回值
 > 高阶函数除了可以接受函数作为参数外，还可以把函数作为结果值返回。
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 ```javascript
 function sum(arr) {
     return arr.reduce(function (x, y) {
@@ -32,7 +33,7 @@ f1 === f2; // false  f1()和f2()的调用结果互不影响。
 ```
 ---------
 #### 闭包
-
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 > 注意到返回的函数在其定义内部引用了局部变量arr，所以，当一个函数返回了一个函数后，其内部的局部变量还被新函数引用，所以，闭包用起来简单，实现起来可不容易。
 另一个需要注意的问题是，返回的函数并没有立刻执行，而是直到调用了`f()`才执行。我们来看一个例子:
 ```javascript
@@ -61,7 +62,7 @@ f3(); // 16
 
     如果一定要引用循环变量怎么办？方法是再创建一个函数，用该函数的参数绑定循环变量当前的值，无论该循环变量后续如何更改，已绑定到函数参数的值不变： 
     
-    
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)    
 ```javascript
     function count() {
     var arr = [];
@@ -103,7 +104,7 @@ function (x) { return x * x } (3);
     return x * x;
 })(3);
 ```
-
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 >在面向对象的程序设计语言里，比如Java和C++，要在对象内部封装一个私有变量，可以用private修饰一个成员变量。
 在没有class机制，只有函数的语言里，借助闭包，同样可以封装一个私有变量。我们用JavaScript创建一个计数器：
 ```javascript
@@ -220,6 +221,7 @@ print 6 times
 */
 ```
 ---------
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 #### Arrow Function（箭头函数）
 为什么叫Arrow Function？因为它的定义用的就是一个箭头:
 ```javascript
@@ -270,6 +272,7 @@ x => { foo: x }
 x => ({ foo: x })
 ```
 ---------
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 #### this `箭头函数内部的this`
 箭头函数看上去是匿名函数的一种简写，但实际上，箭头函数和匿名函数有个明显的区别：箭头函数内部的`this`是词法作用域，由上下文确定。
 回顾前面的例子，由于JavaScript函数对`this`绑定的错误处理，下面的例子无法得到预期结果
@@ -328,7 +331,7 @@ function* foo(x) {
 }
 ```
 -----
-
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 `generator`和函数不同的是，`generator`由`function*`定义（注意多出的`*`号），并且，除了`return`语句，还可以用`yield`返回多次。
 大多数同学立刻就晕了，`generator`就是能够返回多次的“函数”？返回多次有啥用？me还是举个栗子吧。一个著名的斐波那契数列为例:
  `0 1 1 2 3 5 8 13 21 34 ...`
@@ -418,6 +421,7 @@ for (var x of fib(10)) {
 */
 
 ```
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 ##### generator和普通函数相比，有什么用？
 因为`generator`可以在执行过程中多次返回，所以它看上去就像一个可以记住执行状态的函数，利用这一点，写一个`generator`就可以实现需要用面向对象才能实现的功能。例如，用一个对象来保存状态，得这么写:
 ```javascript
@@ -478,3 +482,4 @@ catch (err) {
 }
 ```
 > 看上去是同步的代码，实际执行是异步的。
+##### [如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
