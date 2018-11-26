@@ -216,5 +216,11 @@ a1; // ['A', 'B', 'C']
 a2; // ['A', 'B', 'C']
 a1 === a2; // true, a1和a2是同一对象
 ```
-[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 
+Persistence is the key to learning.
+
+[学习贵在坚持](https://github.com/cuishengxi)
+
+If you don't want to waste your life, you should spend it learning.
+
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
