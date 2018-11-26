@@ -13,11 +13,11 @@ Idle is idle. Get busy and do something.**
 
 ### Reference resources
 
-**[参考作者](https://github.com/ecomfe)
+**[参考作者](https://github.com/ecomfe)**
 
-+ **[JavaScript编码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)
++ **[JavaScript编码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)**
 
-+ **[JavaScript编码规范-补充草案](https://github.com/ecomfe/spec/blob/master/es-next-style-guide.md)
++ **[JavaScript编码规范-补充草案](https://github.com/ecomfe/spec/blob/master/es-next-style-guide.md)**
 
 ------
 ## 目录
