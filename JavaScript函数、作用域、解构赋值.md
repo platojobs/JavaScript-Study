@@ -1,4 +1,10 @@
+Persistence is the key to learning.
+
 [学习贵在坚持](https://github.com/cuishengxi)
+
+If you don't want to waste your life, you should spend it learning.
+
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 #### 函数
 ##### 函数的定义与调用
 由于JavaScript的函数也是一个对象，下述定义的abs()函数实际上是一个函数对象，而函数名abs可以视为指向该函数的变量。
@@ -181,7 +187,13 @@ b = undefined
 ```
 >由于JavaScript引擎在行末自动添加分号的机制.小心return语句；
 
+Persistence is the key to learning.
+
 [学习贵在坚持](https://github.com/cuishengxi)
+
+If you don't want to waste your life, you should spend it learning.
+
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
 
 #### 变量
 
@@ -454,4 +466,10 @@ buildDate({ year: 2017, month: 1, day: 1, hour: 20, minute: 15 });
 ```
 >使用解构赋值可以减少代码量，但是，需要在支持ES6解构赋值特性的现代浏览器中才能正常运行。目前支持解构赋值的浏览器包括`Chrome`，`Firefox`，`Edge`等.
 
+Persistence is the key to learning.
+
 [学习贵在坚持](https://github.com/cuishengxi)
+
+If you don't want to waste your life, you should spend it learning.
+
+[如果不想虚度一生，那就要学习一辈子](https://github.com/cuishengxi)
